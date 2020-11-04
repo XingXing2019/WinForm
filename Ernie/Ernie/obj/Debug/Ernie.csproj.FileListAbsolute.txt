@@ -1,0 +1,10 @@
+F:\C#\WinForm\Ernie\Ernie\bin\Debug\Ernie.exe.config
+F:\C#\WinForm\Ernie\Ernie\bin\Debug\Ernie.exe
+F:\C#\WinForm\Ernie\Ernie\bin\Debug\Ernie.pdb
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.csprojAssemblyReference.cache
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.Form1.resources
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.Properties.Resources.resources
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.csproj.GenerateResource.cache
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.csproj.CoreCompileInputs.cache
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.exe
+F:\C#\WinForm\Ernie\Ernie\obj\Debug\Ernie.pdb

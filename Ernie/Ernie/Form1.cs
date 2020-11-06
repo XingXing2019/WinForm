@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Ernie
@@ -22,8 +23,7 @@ namespace Ernie
         {
             start = !start;
             btnStart.Text = start ? "Stop" : "Start";
-            var th = new Thread(PlayGame){IsBackground = true};
-            th.Start();
+            Task.Run(PlayGame);
         }
 
         private void PlayGame()
